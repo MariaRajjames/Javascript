@@ -1,0 +1,29 @@
+.temp{
+	width:75%;
+	margin:auto;
+	margin-top: 70px;
+	height: 500px;
+	background-color: green;
+}
+.in{
+	margin: 0px 10px;
+	display: flex;
+}
+.tn{
+	width: 100px;
+	height: 50px;
+	margin: auto;
+	margin-top: 100px;
+	font-size: 30px;
+}
+.in h1{
+	margin: auto;
+	margin-top: 120px;
+}
+.tn1{
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+	padding: 10px 30px;
+	font-size: 20px;
+}
